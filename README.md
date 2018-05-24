@@ -1,4 +1,4 @@
-# ISDC-Project-1-Joy-Ride
+# ISDC-Project-0-Joy-Ride
 
 Final project for "Bayesian Thinking" in the Introduction to Self Driving Cars Nanodegree
 
